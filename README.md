@@ -55,7 +55,3 @@ This project helped me practice the following:
 
 This project was developed by following the tutorial: [How to Web Dev](https://www.youtube.com/@HowtoWebDev)
 * **Tutorial Link:** [Modern Responsive Portfolio Website with HTML & CSS & JavaScript - How to Web Dev](https://youtu.be/NWZQkwXtHJo?si=5oDrKeDlGZedX4pO)
-
-[Seu Nome/Nome de Usuário] - [Seu Email]
-
-Project Link: [INSIRA AQUI O LINK DO SEU REPOSITÓRIO NO GITHUB]
